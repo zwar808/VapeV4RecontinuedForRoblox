@@ -1,5 +1,5 @@
 > [!WARNING]
-> Vape is discontinued, this page will now be held as an archive of my work more then anything.
+> This is an UNOFFICIAL fork of vape that was made after vapev4 discontinued
 
 <p align="center">
   <picture>
